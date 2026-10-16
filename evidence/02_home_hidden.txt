@@ -1,0 +1,16 @@
+total 60
+drwxr-x--- 10 eman25-wq eman25-wq 4096 Oct 16 06:45 .
+drwxr-xr-x  3 root      root      4096 Sep 19 12:57 ..
+-rw-------  1 eman25-wq eman25-wq 1783 Oct 16 06:56 .bash_history
+-rw-r--r--  1 eman25-wq eman25-wq  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 eman25-wq eman25-wq 3771 Feb 13  2026 .bashrc
+drwx------  2 eman25-wq eman25-wq 4096 Sep 19 13:05 .cache
+drwxrwx--x  3 eman25-wq eman25-wq 4096 Oct 14 18:26 .config
+-rw-rw-r--  1 eman25-wq eman25-wq  235 Oct 16 06:45 .gitconfig
+drwx------  3 eman25-wq eman25-wq 4096 Oct 13 19:36 .local
+-rw-r--r--  1 eman25-wq eman25-wq  807 Feb 13  2026 .profile
+drwx------  2 eman25-wq eman25-wq 4096 Oct 16 06:36 .ssh
+drwxrwxr-x  3 eman25-wq eman25-wq 4096 Oct 14 18:35 Assignment01
+drwxrwxr-x  3 eman25-wq eman25-wq 4096 Oct 13 19:06 Gitea
+drwxrwxr-x  5 eman25-wq eman25-wq 4096 Oct 16 06:46 lab05-linux
+drwxrwxr-x  2 eman25-wq eman25-wq 4096 Sep 20 17:18 mylab
