@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Eman,2,1234567,1234567:/home/lab5user:/bin/bash
